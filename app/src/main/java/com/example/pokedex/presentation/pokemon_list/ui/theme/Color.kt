@@ -1,4 +1,4 @@
-package com.example.pokedex.ui.theme
+package com.example.pokedex.presentation.pokemon_list.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
